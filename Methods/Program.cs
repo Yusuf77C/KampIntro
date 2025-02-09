@@ -38,8 +38,8 @@
 
             sepetManager.Add(product1);
             sepetManager.Add(product2);
-            
 
+            Console.WriteLine();
         }
     }
 }
